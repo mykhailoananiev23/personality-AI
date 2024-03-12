@@ -1,0 +1,272 @@
+.conclusion-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .conclusion-container {
+    width: 100%;
+    max-width: 600px; /* Adjust as needed for your design */
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 20px; /* Add extra padding at the bottom */
+    overflow: auto;
+    justify-content: center;
+    align-items: center;
+  }
+  .conclusion-content {
+    color: white;
+    max-width: 700px; /* Adjust as needed */
+    margin: 0 auto;
+    font-family: Arial, sans-serif; 
+    justify-content: center;
+    align-items: center;
+  }
+  .conclusion-title {
+    color: white;
+    font-weight: bold;
+    justify-content: center;
+    font-size: 4em;
+    margin-bottom: 0px;
+    align-items: center;
+  }
+  
+  .conclusion-key {
+    color: rgb(242, 100, 100);
+    justify-content: center;
+    align-items: center;
+    /* font-size: 3em; */
+  }
+  
+  .conclusion-img {
+    width: 74%;
+    height: auto;
+    filter: drop-shadow(0 0 8px grey);
+    justify-content: center;
+
+    
+  }
+  .conclusion-text {
+    font-size: 1.123em; /* Adjust as needed */
+    justify-content:flex-start;
+    text-align: left;
+    align-items:flex-start;
+    font-size: 1.123em;
+    line-height: 1.4;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+.regster-button{
+
+  background-color: #4cadaf; /* Green */
+  border: none;
+  color: rgb(12, 90, 180);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+  transition-duration: 0.4s;
+
+}
+.start-again-button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+}
+
+.start-again-button:hover {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+}
+
+/* styles.css */
+.register-button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+/* styles.css */
+.register {
+  background-color: #9eaf4c; /* Green */
+  border: none;
+  color: rgb(240, 236, 6);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.registration-form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: auto;
+  font-size: 18px; /* Increase the font size */
+}
+
+.registration-form label {
+  margin-bottom: 10px;
+}
+
+.registration-form input[type="text"],
+.registration-form input[type="email"] {
+  margin-bottom: 20px;
+  height: 30px; /* Increase the height of the input fields */
+  font-size: 16px; /* Increase the font size in the input fields */
+}
+.conclusion-content {
+  /* Your existing styles for larger devices */
+
+  /* Additional styles for smaller devices */
+  @media (max-width: 600px) {
+    /* Adjust styles for smaller devices */
+    font-size: 14px; /* Example adjustment, modify as needed */
+  }
+}
+
+/* styles.css */
+.thinking-animation {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  background-color: #282c34;
+  color: white;
+  font-size: 24px;
+}
+
+.thinking-animation .emoji {
+  font-size: 50px;
+  margin-bottom: 20px; 
+}
+.thinking{
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  filter: drop-shadow(0 0 8px grey);
+}
+
+.thinking-animation .spinner {
+  margin-bottom: 30px;
+  width: 50px;
+  height: 50px;
+  border: 4px solid #f3f3f3;
+  border-top: 4px solid #3498db;
+  border-radius: 50%;
+  animation: spin 2s linear infinite;
+}
+
+/* styles.css */
+.thinking-text {
+  color: #fff; /* Change the color of the text */
+/*   text-shadow: 2px 2px 4px rgba(221, 200, 255, 0.5); */ /* Add a shadow to the text */
+  font-size: 24px; /* Increase the size of the text */
+  font-weight: bold; /* Make the text bold */
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center; /* Center the text */
+}
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+  @media (max-width: 800px) {
+    .conclusion-content {
+      max-width: 100%; /* Adjust as needed */
+    }
+    .conclusion-title{
+      font-size: 3em;
+      padding-right: 10px;
+      padding-left: 10px;
+    }
+    .conclusion-key{
+      font-size: 41px;
+      padding-right: 10px;
+      padding-left: 10px;
+    }
+   
+  }
+   
+  @media (min-width:2400px) and (max-width: 3440px) {
+
+    .conclusion-container{
+      zoom: 1.6;
+    }
+  }
+
+/* 1179×2556 pixels at 460ppi  For iPhone 14 Pro, iPhone 15 and iPhone 15 Pro: */
+ @media screen 
+and (width: 393px) 
+and (height: 852px) 
+and (-webkit-device-pixel-ratio: 3) {
+  .thinking{
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    filter: drop-shadow(0 0 8px grey);
+  }
+ } 
+/* 1284×2778 pixels at 460ppi For iPhone 14 Pro Max, iPhone 15 Plus and iPhone 15 Pro Max: */
+ @media  screen 
+    and (width: 430px) 
+    and (height: 932px) 
+    and (-webkit-device-pixel-ratio: 3) {
+      .thinking{
+        display: flex;
+        margin-right: auto;
+        margin-left: auto;
+        filter: drop-shadow(0 0 8px grey);
+      }
+     } 
+/* 1170×2532 pixels at 460ppi For iPhone 12, iPhone 12 Pro, iPhone 13, iPhone 13 Pro, and iPhone 14: */
+ @media  screen 
+and (width: 390px) 
+and (height: 844px) 
+and (-webkit-device-pixel-ratio: 3) {
+  .thinking{
+        display: flex;
+        margin-right: auto;
+        margin-left: auto;
+        filter: drop-shadow(0 0 8px grey);
+      }
+ }
+/* 1284×2778 pixels at 458ppi For iPhone 12 Pro Max, iPhone 13 Pro Max, and iPhone 14 Plus:*/
+ @media  screen 
+    and (min-device-width: 428px) 
+    and (height: 926px) 
+    and (-webkit-device-pixel-ratio: 3) {
+      .thinking{
+        display: flex;
+        margin-right: auto;
+        margin-left: auto;
+        filter: drop-shadow(0 0 8px grey);
+      }
+} 

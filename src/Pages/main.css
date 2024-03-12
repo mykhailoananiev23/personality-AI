@@ -1,0 +1,95 @@
+  .pic{
+    display: flex;
+width: 80%;
+margin-left: 10%;
+margin-right: 10%;
+
+}
+
+.pic.home {
+  width: 100% !important;
+  margin-left: 10%;
+  margin-right: 10%;
+  width: 80%;
+  display: flex;
+  margin-left: 0% !important;
+  margin-right: 0% !important;
+  margin-bottom: 0px;
+  margin-top: -50px;
+}
+
+.image4{
+width: 600px;
+height: 400px;
+margin-top: 3rem;
+display: block;
+margin-left: auto;
+margin-right: auto;
+filter: drop-shadow(0 0 8px grey);
+} 
+
+@media (max-width: 768px) {
+  .pic{
+    /* height: 100%; */
+    /* width: 100%; */
+}  
+
+
+}
+.home {
+  margin-top: 7%;
+  font-size: xxx-large;
+  margin-bottom: 0px; 
+}
+
+@media (min-width:350px) and (max-width: 1000px) {
+    .home{
+      margin-top: 30%;
+      font-size: xxx-large;
+      margin-bottom: 0px; 
+  }  
+}
+
+@media (min-width:2400px) and (max-width: 3440px) {
+  .pic{
+    margin-left: -15%;
+    margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}  
+.container{
+  zoom: 1.6;
+}
+.h1{
+  font-size: xx-large;
+  zoom: 1.5;
+}
+h1.h1.home {
+  font-size: xxx-large;
+  margin-top: 7%;
+}
+.h3{
+  font-size: xx-large;
+  /* zoom: 1.5; */
+}
+/* .btn1{
+  font-size: xx-large;
+  padding: -1000px;
+} */
+
+
+}
+
+
+.animated-svg {
+  animation: rotateAnimation 4s linear infinite; /* adjust the duration and other properties as needed */
+}
+
+/* @keyframes rotateAnimation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+} */

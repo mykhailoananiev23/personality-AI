@@ -1,0 +1,173 @@
+{
+    "questions": [
+      {
+        "question": "Du finder ud af, at der har været en fejl i en opgave, du har afleveret på arbejdet. Din chef har ikke bemærket det... endnu. Hvordan håndterer du situationen?",
+        "options": [
+          {
+            "answer": "Du beder om et møde med din chef for at forklare fejlen og hvordan du vil rette den.",
+            "type": "PligtPreben"
+          },
+          {
+            "answer": "Du krydser fingre og håber det bedste, måske opdager de det aldrig.",
+            "type": "PytPreben"
+          },
+          {
+            "answer": "Du begynder straks at arbejde på en løsning, så du er forberedt, hvis nogen bemærker det.",
+            "type": "PræstationsPreben"
+          },
+          {
+            "answer": "Du bliver en smule nervøs og overvejer alle mulige scenarier, men ender med at informere chefen.",
+            "type": "PerfektionistPreben"
+          }
+        ]
+      },
+      {
+        "question": "Du er på café med dine venner, og en tjener spilder ved et uheld kaffe på din nye hvide skjorte. Hvordan reagerer du?",
+        "options": [
+          {
+            "answer": "Du griner det af og siger, at sådan er livet, skjorten kan vaskes.",
+            "type": "PytPreben"
+          },
+          {
+            "answer": "Du bliver irriteret, beder om en undskyldning og forventer, at caféen betaler for rensningen.",
+            "type": "PerfektionistPreben"
+          },
+          {
+            "answer": "Du tager det roligt og spørger tjeneren, hvordan I sammen kan løse situationen på bedste vis.",
+            "type": "PræstationsPreben"
+          },
+          {
+            "answer": "Du føler dig en smule generet, men siger ikke noget og beslutter dig for at undgå konfrontation.",
+            "type": "PligtPreben"
+          }
+        ]
+      },
+      {
+        "question": "Du er til fest, og en karaoke-maskine bliver tændt. Hvordan reagerer du?",
+        "options": [
+          {
+            "answer": "Du tænker, at det er fedt, og skriver din yndlingssang ned på listen - det er ikke vigtigt, hvordan man synger, men at man har det sjovt sammen.",
+            "type": "PytPreben"
+          },
+          {
+            "answer": "Du smutter diskret ud i køkkenet for at undgå hele karaoke-cirkusset og finder dig en hyggelig samtale.",
+            "type": "PligtPreben"
+          },
+          {
+            "answer": "Du tilmelder dig straks med en sang, du har øvet hjemmefra, og du er fast besluttet på at give publikum en top-præstation.",
+            "type": "PræstationsPreben"
+          },
+          {
+            "answer": "Du tænker på, hvilken sang der passer bedst til stemningen og vælger noget, som alle kan synge med på.",
+            "type": "PerfektionistPreben"
+          }
+        ]
+      },
+      {
+        "question": "Du bliver bedt om at lede et teamprojekt på arbejdet. Hvordan tackler du denne udfordring?",
+        "options": [
+          {
+            "answer": "Du planlægger møder og workshops for at involvere alle teammedlemmer og sikre en fælles forståelse af målene.",
+            "type": "PræstationsPreben"
+          },
+          {
+            "answer": "Du tager styringen og deler klare opgaver og deadlines ud til hvert teammedlem.",
+            "type": "PligtPreben"
+          },
+          {
+            "answer": "Du opmuntrer til kreativitet og åben kommunikation, og lader teamet selv komme med løsningsforslag.",
+            "type": "PytPreben"
+          },
+          {
+            "answer": "Du udarbejder en detaljeret projektplan og overvåger nøje, at alt går efter planen.",
+            "type": "PerfektionistPreben"
+          }
+        ]
+      },
+      {
+        "question": "Du står over for en stor beslutning, der kan påvirke dit personlige og professionelle liv. Hvordan træffer du beslutningen?",
+        "options": [
+          {
+            "answer": "Du laver en liste over fordele og ulemper, og træffer beslutningen baseret på rationalitet og fakta.",
+            "type": "PligtPreben"
+          },
+          {
+            "answer": "Du lytter til din intuition og mavefornemmelse for at træffe den rigtige beslutning.",
+            "type": "PytPreben"
+          },
+          {
+            "answer": "Du indsamler information og søger råd fra erfarne personer for at træffe en velinformerede beslutning.",
+            "type": "PræstationsPreben"
+          },
+          {
+            "answer": "Du søger efter den perfekte løsning og analyserer alle mulige scenarier, før du træffer beslutningen.",
+            "type": "PerfektionistPreben"
+          }
+        ]
+      },
+      {
+        "question": "Hvordan reagerer du, hvis du opdager, at du har lavet en fejl i din personlige budgetplan?",
+        "options": [
+          {
+            "answer": "Du foretager øjeblikkelige justeringer og opdaterer din budgetplan for at undgå yderligere fejl.",
+            "type": "PræstationsPreben"
+          },
+          {
+            "answer": "Du accepterer fejlen og forsøger at finde alternative måder at håndtere dine økonomiske forpligtelser på.",
+            "type": "PytPreben"
+          },
+          {
+            "answer": "Du føler dig stresset og bekymret, og du arbejder ekstra hårdt for at genoprette balancen i dit budget.",
+            "type": "PerfektionistPreben"
+          },
+          {
+            "answer": "Du analyserer årsagen til fejlen og udarbejder en ny strategi for at forhindre lignende fejl i fremtiden.",
+            "type": "PligtPreben"
+          }
+        ]
+      },
+      {
+        "question": "Hvordan reagerer du, hvis du modtager kritik på dit arbejde fra en kollega?",
+        "options": [
+          {
+            "answer": "Du anerkender kritikken og arbejder proaktivt på at forbedre de påpegede områder.",
+            "type": "PræstationsPreben"
+          },
+          {
+            "answer": "Du tager kritikken personligt og bliver defensiv, forsvarer dine handlinger uden at lytte til feedbacken.",
+            "type": "PerfektionistPreben"
+          },
+          {
+            "answer": "Du tager det roligt og ser på kritikken som en mulighed for personlig vækst og udvikling.",
+            "type": "PytPreben"
+          },
+          {
+            "answer": "Du føler dig skyldig og overvejer at ændre dine arbejdsvaner for at undgå yderligere kritik.",
+            "type": "PligtPreben"
+          }
+        ]
+      },
+      {
+        "question": "Du er i en stresset arbejdssituation. Hvad gør du for at håndtere stressen?",
+        "options": [
+          {
+            "answer": "Du tager regelmæssige pauser, dyrker motion og anvender teknikker som mindfulness for at håndtere stressen.",
+            "type": "PytPreben"
+          },
+          {
+            "answer": "Du arbejder ekstra timer for at fuldføre opgaverne og undgå yderligere stress.",
+            "type": "PligtPreben"
+          },
+          {
+            "answer": "Du identificerer kilden til stressen og udvikler en plan for at løse problemerne og mindske stressniveauet.",
+            "type": "PræstationsPreben"
+          },
+          {
+            "answer": "Du føler dig overvældet og reagerer impulsivt uden at tage dig tid til at reflektere over situationen.",
+            "type": "PerfektionistPreben"
+          }
+        ]
+      }
+    ]
+}
+
