@@ -1,0 +1,45 @@
+{
+  "intro": {
+    "imgUrl": "/images/headline.png",
+    "name": " כותרות שיווקיות ",
+    "heading": " מחולל כותרות שיווקיות ",
+    "typingText": ["   מדהים  " ],
+    "description": " צרו באופן מיידי עשרות כותרות מושכות תשומת לב ונוגעות בכאב והשתמשו בהם בדפי הנחיתה שלכם ",
+    "btnText": "התחילו עכשיו!",
+    "btnUrl": "intro"
+  },
+
+  "brands": [
+    {
+      "src": "/images/text_1.svg",
+      "alt": "1. מלא את הטופס למטה..."
+    },
+    {
+      "src": "/images/text_2.svg",
+      "alt": "2. דפק את כפתור הבנייה..."
+    },
+    {
+      "src": "/images/text_3.svg",
+      "alt": "3. השתמשו בכותרות כדי להשיג יותר מכירות ולתפוס יותר מנויים!"
+    }
+  ],
+  
+  "contact": {
+    "sectionHeading": {
+      "title": "הגדילו את המכירות עם כותרות שעובדות",
+      "subTitle": " מלאו את הטופס, לחצו על כפתור 'לבנות' וראו את המכירות שלכם מזנקות בעזרת מחולל הכותרות"
+    },
+    "contactImg": "/images/FS_Hate-Love-Copywriting-200x600.jpg",
+    "contactInfo": [
+      { "title": "Write an e-mail", "email": "arslan.mumtaz04@gmail.com" }
+
+    ]
+  }
+  ,
+  "result":  {
+    "sectionHeading": {
+      "miniTitle": "  תוצאות כותרות ",
+      "title": " "
+    }
+  }
+}
